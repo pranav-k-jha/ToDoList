@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Express
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directory
+pnpm-lock.yaml
+
+# Editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
